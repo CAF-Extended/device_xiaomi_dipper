@@ -60,7 +60,7 @@ PRODUCT_PACKAGES += \
 
 # Device init scripts
 PRODUCT_PACKAGES += \
-    init.target.rc
+    init.dipper.rc
 
 # GPS
 PRODUCT_COPY_FILES += \
